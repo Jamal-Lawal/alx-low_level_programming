@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
-* main - print the size of various types
-* Return: 0 if exited properly, non-zero otherwise
+* main - entry point
+* Return: 0 after printing the function
 */
 
 int main(void)
 {
-puts("\"programming is like building a multiliingual puzzle");
+puts("\"programming is like building a multilingual puzzle");
 return (0);
 }
