@@ -4,6 +4,8 @@
 /**
 * main - entry point
 *
+* main -> assign a random number to the variable n each time it is executed prints out
+*
 * Return : always return 0
 *
 */
