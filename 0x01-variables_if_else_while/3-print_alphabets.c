@@ -1,11 +1,8 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
 * main - main entry
 *
 * Return:always return 0
-*
 */
 int main(void)
 {
